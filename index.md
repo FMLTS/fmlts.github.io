@@ -37,7 +37,7 @@ Submissions must be anonymised.
 
 Submissions via OpenReview (TBC).
 
-Papers will be accepted either as oral presentations or posters.
+We will aim to have each submission will be reviewed by at least three reviewers.  Papers will be accepted either as oral presentations or posters.
 
 # Important Dates
 
