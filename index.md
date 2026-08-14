@@ -48,9 +48,13 @@ TBA
 
 # Organisers
 
-| | | |
-|-|-|-|
-| <img src="images/angus.jpeg" style="border-radius:50%"><br>Angus Dempster | ![Yunrui](images/yunrui.jpeg)<br>Yunrui Zhang | ![Chang Wei](images/changwei.jpeg)<br>Chang Wei Tan |
+<table>
+  <tr>
+    <td><div align="center"><img src="images/angus.jpeg" style="border-radius:50%"><br>Angus Dempster</div>div></td>
+    <td><div align="center"><img src="images/yunrui.jpeg" style="border-radius:50%"><br>Yunrui Zhang</div>div></td>
+    <td><div align="center"><img src="images/changwei.jpeg" style="border-radius:50%"><br>Chang Wei Tan</div>div></td>
+  </tr>
+</table>
 
 # Contact
 
