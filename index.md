@@ -50,9 +50,9 @@ TBA
 
 <table>
   <tr>
-    <td><div align="center"><img src="images/angus.jpeg" style="border-radius:50%"><br>Angus Dempster</div>div></td>
-    <td><div align="center"><img src="images/yunrui.jpeg" style="border-radius:50%"><br>Yunrui Zhang</div>div></td>
-    <td><div align="center"><img src="images/changwei.jpeg" style="border-radius:50%"><br>Chang Wei Tan</div>div></td>
+    <td><div align="center"><img src="images/angus.jpeg" style="border-radius:50%"><br><br><b>Angus Dempster</b></div></td>
+    <td><div align="center"><img src="images/yunrui.jpeg" style="border-radius:50%"><br><br><b>Yunrui Zhang</b></div></td>
+    <td><div align="center"><img src="images/changwei.jpeg" style="border-radius:50%"><br><br><b>Chang Wei Tan</b></div></td>
   </tr>
 </table>
 
