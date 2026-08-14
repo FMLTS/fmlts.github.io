@@ -1,10 +1,12 @@
-# FMLTS 2026
+---
+title: "FMLTS 2026"
+---
 
-## About
+# About
 
 Machine learning for time series is in a moment of transition.  Traditional specialised methods for tasks including classification, regression, forecasting, and anomaly detection are now joined by deep learning methods and foundation models.  Yet most work, even work involving foundation models, and particularly in the area of time series classification, is still done primarily using very small datasets.  Recent work has begun to introduce new, larger, datasets, to encourage new progress in the field.  Nevertheless, a significant amount of work suffers from weaknesses in benchmarking and evaluation practices.  This workshop aims to bring together researchers, students, and practitioners from across various disciplines involving machine learning and time series, including classification, regression, forecasting, and anomaly detection, to explore future directions and engage with the most pressing challenges in machine learning research for time series.  This workshop will invite work using large datasets, and rigorously evaluating existing methods, including foundation models.
 
-## Topics
+# Topics
 
 * time series classification
 * forecasting
@@ -18,11 +20,11 @@ Machine learning for time series is in a moment of transition.  Traditional spec
 * scalability
 * segmentation
 
-## Submissions
+# Submissions
 
 Full papers.  4 oral presentations and 4 to 8 posters.
 
-## Important Dates
+# Important Dates
 
 | | |
 |-|-|
@@ -31,21 +33,21 @@ Full papers.  4 oral presentations and 4 to 8 posters.
 | 13 November 2026 | Camera-Ready |
 | 1 December 2026 | Workshop |
 
-## Program (Provisional)
+# Program (Provisional)
 
 TBA
 
-## Speakers
+# Speakers
 
 TBA
 
-## Organisers
+# Organisers
 
 | | | |
 |-|-|-|
 | Angus Dempster | Yunrui Zhang | Chang Wei Tan |
 
-## Contact
+# Contact
 
 Angus Dempster
 angus.dempster@monash.edu
