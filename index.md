@@ -1,5 +1,6 @@
 ---
 title: "FMLTS 2026"
+layout: home
 ---
 
 # About
