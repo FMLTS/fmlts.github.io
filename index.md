@@ -50,7 +50,7 @@ TBA
 
 | | | |
 |-|-|-|
-| ![Angus](images/angus.jpeg)<br>Angus Dempster | ![Yunrui](images/yunrui.jpeg)<br>Yunrui Zhang | ![Chang Wei](images/changwei.jpeg)<br>Chang Wei Tan |
+| <img source="images/angus.jpeg" style="border-radius:50%"><br>Angus Dempster | ![Yunrui](images/yunrui.jpeg)<br>Yunrui Zhang | ![Chang Wei](images/changwei.jpeg)<br>Chang Wei Tan |
 
 # Contact
 
