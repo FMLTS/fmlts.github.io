@@ -29,7 +29,7 @@ We invite submissions on the following topics in relation to machine learning fo
 
 # Submissions
 
-Submissions should follow the [ACML Latex submission template and style file (zip)](https://www.acml-conf.org/2026/downloads/ACML_camera_ready.zip).
+Submissions should follow the [ACML LaTex template and style file (zip)](https://www.acml-conf.org/2026/downloads/ACML_camera_ready.zip).
 
 Submissions should be up to 8 (TBC) pages (excluding references and appendices).
 
@@ -58,11 +58,11 @@ Submissions must be anonymised.
 
 # Program (Provisional)
 
-TBA
+TBC
 
 # Speakers
 
-TBA
+TBC
 
 # Organisers
 
