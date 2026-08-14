@@ -2,8 +2,8 @@
 title: "FMLTS 2026"
 ---
 
-**FMLTS Workshop** @ ACML 2026  
-Melbourne
+**Future of Machine Learning for Time Series Workshop** @ ACML 2026  
+Tues, 1 December 2026, Melbourne
 
 # About
 
@@ -50,6 +50,7 @@ TBA
 
 | | | |
 |-|-|-|
+| ![Angus](images/angus.jpeg) | ![Yunrui](yunrui.jpeg) | ![Chang Wei](changwei.jpeg) |
 | Angus Dempster | Yunrui Zhang | Chang Wei Tan |
 
 # Contact
