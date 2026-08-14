@@ -35,6 +35,10 @@ Submissions should be up to 8 (TBC) pages (excluding references and appendices).
 
 Submissions must be anonymised.
 
+Submissions via OpenReview (TBC).
+
+Papers will be accepted either as oral presentations or posters.
+
 # Important Dates
 
 <table>
