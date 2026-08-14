@@ -13,6 +13,8 @@ This workshop will bring together researchers, students, and practitioners from 
 
 # Topics
 
+We invite submissions on the following topics in relation to machine learning for time series:
+
 * time series classification
 * forecasting
 * anomaly detection
@@ -27,16 +29,32 @@ This workshop will bring together researchers, students, and practitioners from 
 
 # Submissions
 
-Full papers.  4 oral presentations and 4 to 8 posters.
+Submissions should follow the [ACML Latex submission template and style file (zip)](https://www.acml-conf.org/2026/downloads/ACML_camera_ready.zip).
+
+Submissions should be up to 8 (TBC) pages (excluding references and appendices).
+
+Submissions must be anonymised.
 
 # Important Dates
 
-| | |
-|-|-|
-| 18 October 2026	| **Submission Deadline** |
-| 30 October 2026 |	Acceptance Notification |
-| 13 November 2026 | Camera-Ready |
-| 1 December 2026 | Workshop |
+<table>
+  <tr>
+    <td>18 October 2026</td>
+    <td><b>Submission Deadline</b></td>
+  </tr>
+  <tr>
+    <td>30 October 2026</td>
+    <td>Outcome Notification</td>
+  </tr>
+  <tr>
+    <td>13 November 2026</td>
+    <td>Camera Ready Deadline</td>
+  </tr>
+  <tr>
+    <td>1 December 2026</td>
+    <td>Workshop</td>
+  </tr>
+</table>
 
 # Program (Provisional)
 
@@ -50,13 +68,25 @@ TBA
 
 <table>
   <tr>
-    <td><div align="center"><img src="images/angus.jpeg" style="border-radius:50%"><br><br><b>Angus Dempster</b></div></td>
-    <td><div align="center"><img src="images/yunrui.jpeg" style="border-radius:50%"><br><br><b>Yunrui Zhang</b></div></td>
-    <td><div align="center"><img src="images/changwei.jpeg" style="border-radius:50%"><br><br><b>Chang Wei Tan</b></div></td>
+    <td><div align="center">
+      <img src="images/angus.jpeg" style="border-radius:50%">
+      <br><br>
+      <b>Angus Dempster</b><br>Monash University
+    </div></td>
+    <td><div align="center">
+      <img src="images/yunrui.jpeg" style="border-radius:50%">
+      <br><br>
+      <b>Yunrui Zhang</b><br>Monash University
+    </div></td>
+    <td><div align="center">
+      <img src="images/changwei.jpeg" style="border-radius:50%">
+      <br><br>
+      <b>Chang Wei Tan</b><br>Oracle
+    </div></td>
   </tr>
 </table>
 
 # Contact
 
-Angus Dempster
-angus.dempster@monash.edu
+Angus Dempster  
+[angus.dempster@monash.edu](angus.dempster@monash.edu)
