@@ -31,13 +31,13 @@ We invite submissions on the following topics in relation to machine learning fo
 
 Submissions should follow the [ACML LaTeX template and style file (zip)](https://www.acml-conf.org/2026/downloads/ACML_camera_ready.zip).
 
-Submissions should be up to 8 (TBC) pages (excluding references and appendices).
+Submissions should be from 4 to 6 pages in length (excluding references and appendices).
 
 Submissions must be anonymised.
 
-Submissions via OpenReview (TBC).
+Submissions via [OpenReview](https://openreview.net/group?id=ACML.org/2026/Workshop/FMLTS).
 
-We will aim to have each submission reviewed by at least three reviewers.  Accepted papers will be presented either as oral presentations or posters.
+*We aim to have each submission reviewed by three reviewers.  Accepted papers will be delivered either as oral presentations or posters.*
 
 # Important Dates
 
@@ -66,7 +66,11 @@ TBC
 
 # Speakers
 
-TBC
+**Professor James Bailey**  
+Head of Department, Data Science and Artificial Intelligence  
+Monash University
+
+**TBC**
 
 # Organisers
 
