@@ -5,13 +5,13 @@ title: "FMLTS 2026"
 **Future of Machine Learning for Time Series Workshop** @ ACML 2026  
 1 December 2026, Melbourne
 
-# About
+## About
 
 Machine learning for time series is in a moment of transition.  Traditional specialised methods are now joined by deep learning and foundation models.  Yet most work is still done using very small datasets, and a significant amount of work suffers from weaknesses in benchmarking and evaluation practices.
 
 This workshop will bring together researchers, students, and practitioners from across disciplines to explore future directions and engage with the most pressing challenges in machine learning research for time series.
 
-# Topics
+## Topics
 
 We invite submissions on the following topics in relation to machine learning for time series:
 
@@ -27,7 +27,7 @@ We invite submissions on the following topics in relation to machine learning fo
 * scalability
 * segmentation
 
-# Submissions
+## Submissions
 
 Submissions should follow the [ACML LaTeX template and style file (zip)](https://www.acml-conf.org/2026/downloads/ACML_camera_ready.zip).
 
@@ -39,7 +39,7 @@ Submissions via [OpenReview](https://openreview.net/group?id=ACML.org/2026/Works
 
 *We aim to have each submission reviewed by three reviewers.  Accepted papers will be delivered either as oral presentations or posters.*
 
-# Important Dates
+## Important Dates
 
 <table>
   <tr>
@@ -60,11 +60,11 @@ Submissions via [OpenReview](https://openreview.net/group?id=ACML.org/2026/Works
   </tr>
 </table>
 
-# Program (Provisional)
+## Program
 
 TBC
 
-# Speakers
+## Speakers
 
 **Professor James Bailey**  
 Head of Department, Data Science and Artificial Intelligence  
@@ -72,7 +72,7 @@ Monash University
 
 **TBC**
 
-# Organisers
+## Organisers
 
 <table>
   <tr>
@@ -94,7 +94,7 @@ Monash University
   </tr>
 </table>
 
-# Contact
+## Contact
 
 Angus Dempster  
 [angus.dempster@monash.edu](angus.dempster@monash.edu)
