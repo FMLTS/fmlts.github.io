@@ -39,7 +39,7 @@ Submissions via [OpenReview](https://openreview.net/group?id=ACML.org/2026/Works
 
 *We aim to have each submission reviewed by three reviewers.  Accepted papers will be delivered either as oral presentations or posters.*
 
-&dagger;<small>OpenReview moderation of new profiles without an institutional email address can take up to two weeks.</small>
+<sup>&dagger;OpenReview moderation of new profiles without an institutional email address can take up to two weeks.</sup>
 
 # Important Dates
 
