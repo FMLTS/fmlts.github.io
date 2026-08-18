@@ -35,11 +35,11 @@ Submissions should be from 4 to 6 pages in length (excluding references and appe
 
 Submissions must be anonymised.
 
-Submissions via [OpenReview](https://openreview.net/group?id=ACML.org/2026/Workshop/FMLTS).&dagger;
+Submissions via [OpenReview](https://openreview.net/group?id=ACML.org/2026/Workshop/FMLTS).<sup>*</sup>
 
 *We aim to have each submission reviewed by three reviewers.  Accepted papers will be delivered either as oral presentations or posters.*
 
-&dagger;<sub><sup>OpenReview moderation of new profiles without institutional email addresses can take up to two weeks.</sup></sub>
+<sup>*</sup><sub><sup>OpenReview moderation of new profiles without an institutional email address can take up to two weeks.</sup></sub>
 
 # Important Dates
 
