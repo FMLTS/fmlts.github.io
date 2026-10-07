@@ -13,7 +13,7 @@ This workshop will bring together researchers, students, and practitioners from 
 
 # Topics
 
-We invite submissions on the following topics in relation to machine learning for time series:
+We invite submissions, *including dual/concurrent submissions*, on the following topics in relation to machine learning for time series:
 
 * time series classification
 * forecasting
@@ -28,6 +28,8 @@ We invite submissions on the following topics in relation to machine learning fo
 * segmentation
 
 # Submissions
+
+***This is a non-archival venue.  We welcome dual/concurrent submissions.***
 
 Submissions should follow the [ACML LaTeX template and style file (zip)](https://www.acml-conf.org/2026/downloads/ACML_camera_ready.zip).
 
