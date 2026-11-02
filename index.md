@@ -74,7 +74,8 @@ TBC
 Head of Department, Data Science and Artificial Intelligence  
 Monash University
 
-**TBC**
+**Professor Germain Forestier**  
+Université Haute Alsace and IRIMAS
 
 # Organisers
 
