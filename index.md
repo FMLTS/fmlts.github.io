@@ -51,7 +51,7 @@ Submissions via [OpenReview](https://openreview.net/group?id=ACML.org/2026/Works
     <td><b>Submission Deadline</b></td>
   </tr>
   <tr>
-    <td><s>30 October 2026</s><br>4 November 2026</td>
+    <td><s>30 October 2026</s><br>3 November 2026</td>
     <td>Outcome Notification</td>
   </tr>
   <tr>
