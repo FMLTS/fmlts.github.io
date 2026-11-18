@@ -69,6 +69,7 @@ Submissions via [OpenReview](https://openreview.net/group?id=ACML.org/2026/Works
 Day/Time: Tuesday 1 December, 9 AM to 12 PM  
 Location: RMIT Building 80, 445 Swanston Street, Melbourne
 
+<div style="white-space: nowrap;">
 <table>
   <tr>
     <td>9:00-9:05</td>
@@ -115,6 +116,7 @@ Location: RMIT Building 80, 445 Swanston Street, Melbourne
     <td>Closing</td>
   </tr>
 </table>
+</div>
 
 # Speakers
 
