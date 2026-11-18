@@ -66,7 +66,55 @@ Submissions via [OpenReview](https://openreview.net/group?id=ACML.org/2026/Works
 
 # Program
 
-TBC
+Day/Time: Tuesday 1 December, 9 AM to 12 PM  
+Location: RMIT Building 80, 445 Swanston Street, Melbourne
+
+<table>
+  <tr>
+    <td>9:00-9:05</td>
+    <td>Introduction</td>
+  </tr>
+  <tr>
+    <td>9:05-9:45</td>
+    <td>Invited Talk #1<br><b>Prof Germain Forestier</b></td>
+  </tr>
+  <tr>
+    <td>9:45-10:00</td>
+    <td><i>LISTS: Local Instance Selection for Time Series Classification</i><br>Zihan Jia</td>
+  </tr>
+  <tr>
+    <td>10:00-10:30</td>
+    <td>Coffee Break</td>
+  </tr>
+  <tr>
+    <td>10:30-11:10</td>
+    <td>Invited Talk #2<br><b>Prof James Bailey</b></td>
+  </tr>
+  <tr>
+    <td>11:10-11:25</td>
+    <td><i>A Comparative Benchmark for Financial Asset Recommendation</i><br>Nilesh Verma [remote]</td>
+  </tr>
+  <tr>
+    <td>11:25-11:40</td>
+    <td><i>Time-Derived Covariate Utility After Weather Normalization in Zero-Shot Electricity Demand Forecasting</i><br>Han Taehee</td>
+  </tr>
+  <tr>
+    <td>11:40-11:55</td>
+    <td><i>Big Models, Small Gains: Frozen Forecasters as Classifiers on MONSTER</i><br>Rishit Jain [remote]</td>
+  </tr>
+  <tr>
+    <td>11:55-12:10</td>
+    <td>Paper #5<i>Time Series Classification by Fusing Random-Kernel Tokens into Convolutional Transformers</i><br>Pranav Sankar Moorthi</td>
+  </tr>
+  <tr>
+    <td>12:10-12:25</td>
+    <td>Paper #6: TBC</td>
+  </tr>
+  <tr>
+    <td>12:25-12:30</td>
+    <td>Closing</td>
+  </tr>
+</table>
 
 # Speakers
 
