@@ -66,8 +66,8 @@ Submissions via [OpenReview](https://openreview.net/group?id=ACML.org/2026/Works
 
 # Program
 
-Day/Time: Tuesday 1 December, 9 AM to 12 PM  
-Location: RMIT Building 80, 445 Swanston Street, Melbourne
+Tuesday, 1 December  
+Room 080.02.017, RMIT Building 80, 445 Swanston Street, Melbourne
 
 <div style="white-space: nowrap;">
 <table>
@@ -105,11 +105,11 @@ Location: RMIT Building 80, 445 Swanston Street, Melbourne
   </tr>
   <tr>
     <td>11:55-12:10</td>
-    <td>Paper #5<i>Time Series Classification by Fusing Random-Kernel Tokens into Convolutional Transformers</i><br>Pranav Sankar Moorthi</td>
+    <td><i>Time Series Classification by Fusing Random-Kernel Tokens into Convolutional Transformers</i><br>Pranav Sankar Moorthi</td>
   </tr>
   <tr>
     <td>12:10-12:25</td>
-    <td>Paper #6: TBC</td>
+    <td>Paper #6<br>TBC</td>
   </tr>
   <tr>
     <td>12:25-12:30</td>
