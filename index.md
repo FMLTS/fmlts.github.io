@@ -66,10 +66,12 @@ Submissions via [OpenReview](https://openreview.net/group?id=ACML.org/2026/Works
 
 # Program
 
+\** Updated 23/11 **
+
 Tuesday, 1 December  
 Room 080.02.017, RMIT Building 80, 445 Swanston Street, Melbourne
 
-<div style="white-space: nowrap;">
+<!-- <div style="white-space: nowrap;">
 <table>
   <tr>
     <td>9:00-9:05</td>
@@ -113,6 +115,51 @@ Room 080.02.017, RMIT Building 80, 445 Swanston Street, Melbourne
   </tr>
   <tr>
     <td>12:25-12:30</td>
+    <td>Closing</td>
+  </tr>
+</table>
+</div> -->
+
+<div style="white-space: nowrap;">
+<table>
+  <tr>
+    <td>9:00-9:05</td>
+    <td>Introduction</td>
+  </tr>
+  <tr>
+    <td>9:05-9:45</td>
+    <td>Invited Talk #1<br><b>Prof Germain Forestier</b></td>
+  </tr>
+  <tr>
+    <td>9:45-10:00</td>
+    <td><i>LISTS: Local Instance Selection for Time Series Classification</i><br>Zihan Jia</td>
+  </tr>
+  <tr>
+    <td>10:00-10:15</td>
+    <td><i>A Comparative Benchmark for Financial Asset Recommendation</i><br>Nilesh Verma [remote]</td>
+  </tr>
+  <tr>
+    <td>10:15-10:30</td>
+    <td><i>Time-Derived Covariate Utility After Weather Normalization in Zero-Shot Electricity Demand Forecasting</i><br>Han Taehee</td>
+  </tr>
+  <tr>
+    <td>10:30-11:00</td>
+    <td>Coffee Break</td>
+  </tr>
+  <tr>
+    <td>11:00-11:40</td>
+    <td>Invited Talk #2<br><b>Prof James Bailey</b></td>
+  </tr>
+  <tr>
+    <td>11:40-11:55</td>
+    <td><i>Big Models, Small Gains: Frozen Forecasters as Classifiers on MONSTER</i><br>Rishit Jain [remote]</td>
+  </tr>
+  <tr>
+    <td>11:55-12:10</td>
+    <td><i>Time Series Classification by Fusing Random-Kernel Tokens into Convolutional Transformers</i><br>Pranav Sankar Moorthi</td>
+  </tr>
+  <tr>
+    <td>12:10-12:15</td>
     <td>Closing</td>
   </tr>
 </table>
